@@ -1,0 +1,55 @@
+.List-orders{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+   align-content: space-between;
+   width: 100%;
+    
+    border-radius: 6px;
+    background: white;
+   
+}
+.listorder-format-main{display: flex;
+   flex-wrap: wrap; 
+   align-items: center;
+   align-content: center;
+   justify-content: space-around;
+    gap: 10px;
+    width: 100%;
+    padding: 10px 10px;
+    color: #454545;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.order{
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.order h5{
+    margin-left: 20px;
+    font-size: 12px;
+}
+.order img {
+    margin-right: 30px;
+}
+.hrr {
+    border: 2px solid black;
+  
+    
+
+}
+.box_order{
+   
+    margin-left: 120px;
+    margin-right:150px;
+    
+}
+.box_client h5{
+   
+    font-size: 16px;
+    font-weight: 600;
+}
